@@ -5,7 +5,8 @@
 
 ## Overview
 
-Data Forge is a high-performance web application designed to generate and view synthetic, multi-turn roleplay datasets in **ChatML format**. The application connects to local AI inference engines (like **Oobabooga** and **SGLang**) to produce diverse dialogue interactions based on structural guidelines and personas.
+Data Forge is a high-performance web application designed to generate and view synthetic, multi-turn roleplay datasets in **_<ins>ChatML</ins> format_**. The application connects to local AI inference engines (like **Oobabooga** and **SGLang**) to produce diverse dialogue interactions based on structural guidelines and personas.
+<img width="2558" height="1175" alt="image" src="https://github.com/user-attachments/assets/968bbaf5-6153-4d70-8744-49a089d79ebc" />
 
 ## Features
 
@@ -21,8 +22,8 @@ Data Forge is a high-performance web application designed to generate and view s
 
 - **Node.js**
 - Local language models running via:
-  - Oobabooga (OpenAI API extension at `http://127.0.0.1:5000/v1`) 
-  - OR SGLang (`http://127.0.0.1:30000/v1`)
+  - Oobabooga (OpenAI API extension) 
+  - OR SGLang
 
 ## Installation and Setup
 
