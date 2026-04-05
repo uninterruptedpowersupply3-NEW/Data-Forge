@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+call npm install
+echo Starting Development Server...
+node "node_modules\vite\bin\vite.js"
+pause

@@ -1,0 +1,5 @@
+{
+  "name": "ChatML Dataset Generator & Viewer",
+  "description": "A synthetic dataset of high-quality, multi-turn roleplay conversations in ChatML format, accompanied by a React-based viewer to audit the dialogue flow.",
+  "requestFramePermissions": []
+}
